@@ -1,9 +1,7 @@
 # Physical-Computing-task
 
 A Micro Controller is a device used to controll electric circuits.
-
 It uses a processer to decide where the current should be flowing.
-
 Examples of Micro Controllers:
 Auduino: 
 
