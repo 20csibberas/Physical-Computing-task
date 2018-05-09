@@ -38,3 +38,5 @@ Hydraulic cylinder:
 Pneumatic actuators:
 ![pneumatic](https://ec-i21.geccdn.net/site/images/n-picgroup/88337.jpg)
 
+# software
+software is installed into the microcontroller, in order to set its coding. Software is used as instructions for the operation of the micro controller, software can range from operating systems to lib
