@@ -39,4 +39,19 @@ Pneumatic actuators:
 ![pneumatic](https://ec-i21.geccdn.net/site/images/n-picgroup/88337.jpg)
 
 # software
-software is installed into the microcontroller, in order to set its coding. Software is used as instructions for the operation of the micro controller, software can range from operating systems to lib
+software is installed into the microcontroller, in order to set its coding. Software is used as instructions for the operation of the micro controller, software can range from operating systems to librarys and applocations. Examples of these types of software are operating systems:
+
+![operating systems](http://cdn2.itpro.co.uk/sites/itpro/files/styles/article_main_wide_image/public/2017/02/linux_copy.jpg?itok=fellptYe)
+linux is a very popular operating system amoung the computer DIY comunity, Since its usually alot cheaper and customizable than its windows and apple counterparts.
+
+Librarys:
+![time.h](http://yazilimagiris.com/wp-content/uploads/2017/03/illu_time-h-et-ses-fonctions.png)
+time.h is a very common library that many of our devices use. From its title, its job is to calculate the time. Although time.h is very old, and modern devices would probably use some other library.
+
+Applocations:
+![microsoft word](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Word_2013_logo.svg/2000px-Microsoft_Word_2013_logo.svg.png)
+Microsoft word is an applocation which billions of people will be familiar with, it used to be the only word processor people would work with. Today we have word processors like google-docs which borrows elements from Microsoft Word, but operates in new and refined ways.
+
+# analog and digital signals
+the difference between analog and digital signals put simply is analog signals would be the physical world around us, and how the sensors are effected, then the digital signals would just be the machine language the sensors would send to the micro controller. But for a better definition of the differences between analog and digital signal; analog works in waves, the information is stored in the differences of waves high and frequencies. While Digital uses multiple electric connections, and uses combinations of current into these multiple connections to communicate.
+![difference](http://techdifferences.com/wp-content/uploads/2016/08/Analog-Signal-Vs-digital-Signal.jpg)
