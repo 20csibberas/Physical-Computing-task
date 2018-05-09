@@ -15,7 +15,7 @@ Micro Bit:
 
 ![micro bit](https://cdn.shopify.com/s/files/1/0176/3274/products/microbit_1024x1024.jpg?v=1477646080)
 
-#Sensors
+# Sensors
 Sensors are a big element to physical computing, how can you make a computer operate around a physical enviroment, when it has no means in which to react to the world around it? Sensors bridge the gap between the digital world inside a computer and to our physical world, by getting reactions (like light and heat) from our world and streaming data as input to the computer. Common examples of sensors are heat sensors:
 ![temp sensor](http://imgs.inkfrog.com/pix/smoothdealer/26670.jpg)
 
