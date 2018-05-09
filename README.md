@@ -27,3 +27,14 @@ sound sensor:
 
 ultrasonic sensor:
 ![ultsonic](http://www.elecfreaks.com/store/images/Sensor_ObjDec_Ultra_HC_SR04_7.jpg)
+
+# actuator
+In short, an actuator turns the received electricty into physical motion or force, but their applocations are alot more complicated. Computers can make desissions, but without any actuators, the computer can not interact with the world around it, instead it will have to prompt you to do everything it was meant to do. Examples of actuators are electrical motors:
+![elc motor](https://i1.wp.com/allianceglobalincorp.com/wp-content/uploads/2016/01/Motor.jpg?fit=1772%2C1376)
+
+Hydraulic cylinder:
+![hydraulic](http://www.texashydraulics.com/wp-content/themes/va/images/standard-main.jpg)
+
+Pneumatic actuators:
+![pneumatic](https://ec-i21.geccdn.net/site/images/n-picgroup/88337.jpg)
+
